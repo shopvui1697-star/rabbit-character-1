@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+backend/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node / Frontend
+node_modules/
+.next/
+out/
+
+# Logs
+*.log
+backend/logs/
+docs/ARCHITECTURE.md
+docs/PHASED_ROADMAP.md
+docs/PROJECT_STRUCTURE.md
+docs/README.md
+docs/TECH_STACK.md
+docs/WORKFLOW.md
